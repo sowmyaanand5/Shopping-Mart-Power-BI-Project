@@ -6,7 +6,6 @@ This Power BI dashboard provides a detailed analysis of Shopping Mart's sales da
 
 
 ## Data
-
 1.	Sales Metrics:
    
   •	Sum of Sales, Cost and Profit: Tracks overall business performance.
@@ -15,7 +14,7 @@ This Power BI dashboard provides a detailed analysis of Shopping Mart's sales da
 
 2.	Geographic Insights:
    
-  •	Sales by Country: Visualizes regional distribution of sales on a map.
+  •   Sales by Country: Visualizes regional distribution of sales on a map.
   
   •	Quantity by Region: Breaks down total sales volume across various regions.
 
