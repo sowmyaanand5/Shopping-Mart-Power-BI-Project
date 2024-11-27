@@ -51,5 +51,5 @@ This Power BI dashboard provides a detailed analysis of Shopping Mart's sales da
 
   ## Conclusion
 
-This Shopping Mart Sales Dashboard provides valuable insights into sales trends, product performance, and customer contributions. The data reveals profitable categories and highlights sub-categories. Regional and geographic analyses identify high-sales areas, enabling targeted marketing and inventory strategies.  With interactive filters and detailed visualizations, it enables businesses to optimize marketing strategies, enhance customer engagement and drive sustainable growth.
+This Shopping Mart Sales Dashboard provides valuable insights into sales trends, product performance and customer contributions. The data reveals profitable categories and highlights sub-categories. Regional and geographic analyses identify high-sales areas, enabling targeted marketing and inventory strategies.  With interactive filters and detailed visualizations, it enables businesses to optimize marketing strategies, enhance customer engagement and drive sustainable growth.
 
